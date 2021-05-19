@@ -20,7 +20,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
         backgroundColor: FlutterFlowTheme.primaryColor,
         automaticallyImplyLeading: true,
         title: Text(
-          'FlutterFlow Sample App\n',
+          'FlutterFlow Sample App',
           style: FlutterFlowTheme.bodyText1.override(
             fontFamily: 'Poppins',
           ),
