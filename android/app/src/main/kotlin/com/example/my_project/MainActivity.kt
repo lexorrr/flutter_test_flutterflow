@@ -1,4 +1,4 @@
-package com.lexorrr.flutter_test_flutterflow
+package com.flutterflow.fluttertestflutterflow
 
 import io.flutter.embedding.android.FlutterActivity
 
